@@ -4,6 +4,7 @@
   "description": "Serverless aws-nodejs-typescript template",
   "main": "serverless.ts",
   "scripts": {
+    "postinstall": "serverless dynamodb install",
     "test": "jest"
   },
   "dependencies": {
