@@ -1,0 +1,6 @@
+{
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": "{\"provider\": \"gas\", \"callbackUrl\": \"http://postman-echo.com/post\"}"
+}
