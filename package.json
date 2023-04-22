@@ -37,7 +37,7 @@
     "mockttp": "^1.1.0",
     "serverless": "^2.23.0",
     "serverless-dynamodb-local": "^0.2.39",
-    "serverless-offline": "^6.8.0",
+    "serverless-offline": "^12.0.4",
     "serverless-prune-plugin": "^1.4.3",
     "serverless-webpack": "^5.2.0",
     "ts-jest": "^26.5.1",
